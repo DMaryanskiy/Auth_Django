@@ -33,3 +33,8 @@ Just click the button on main page while you are logged in and you'll be redirec
 5. Change your directory to `Auth_Django` using `cd Auth_Django`.
 6. Apply all migrations using `python manage.py makemugrations` & `python manage.py migrate`.
 7. Launch application with `python manage.py runserver` and follow the link `http://127.0.0.1:8000`.
+
+## Technology stack
+
+1. Python 3.9.4
+2. Django 4.0.3
